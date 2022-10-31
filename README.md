@@ -1,8 +1,8 @@
 ### 🧱 What I'm Building
-[PVD Things Client](https://github.com/starboardcoop/things-app) | [PVD Things Admin](https://github.com/starboardcoop/library_admin)
+[Mob App](https://github.com/dillonfagan/mob) | [PVD Things App](https://github.com/starboardcoop/things-app)
 
 ### 🔭 What I Want to Build
-[Bike Team App](https://github.com/dillonfagan/oscc_app)
+[Bike Team App](https://github.com/dillonfagan/oscc_app) | [PVD Things Admin App](https://github.com/starboardcoop/library_admin)
 
 ### 🔨 What I Build With
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
